@@ -178,7 +178,7 @@ Dashboard installation
 
 * **For Google Analytics widgets only** install python package:
 
-.. code::
+.. code:: shell
 
     pip install google-api-python-client==1.4.1
 
