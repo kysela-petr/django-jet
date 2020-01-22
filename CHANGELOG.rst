@@ -1,6 +1,10 @@
 Changelog
 =========
 
+2.0.0b
+-----
+Test Django 3 compatibility
+
 1.0.8
 -----
 * PR-345: Django 2.1 compatability fix
