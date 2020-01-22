@@ -1,6 +1,10 @@
 Changelog
 =========
 
+2.0.7
+-----
+Finish rst fix solved
+
 2.0.0b
 -----
 Test Django 3 compatibility
