@@ -1,5 +1,8 @@
 Changelog
 =========
+2.0.9
+-----
+* NPR-1: Fix admin_static tag
 
 2.0.7
 -----
